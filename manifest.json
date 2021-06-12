@@ -1,0 +1,8 @@
+{
+    "icon": "assets/icon.png",
+    "name": "Plagued",
+    "description": "Plagued even in Discord",
+    "version": "1.0",
+    "author": "Sir.Pingu",
+    "theme": "Plagued.scss",
+}
